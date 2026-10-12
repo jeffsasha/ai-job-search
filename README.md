@@ -4,13 +4,20 @@
 
 # AI Job Search
 
+[![Fork of MadsLorentzen/ai-job-search](https://img.shields.io/badge/Fork-MadsLorentzen%2Fai--job--search-64748b?style=flat-square&logo=github&logoColor=white)](https://github.com/MadsLorentzen/ai-job-search)
+[![Python 3.10 or newer](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](#prerequisites)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2563eb?style=flat-square)](LICENSE)
+[![Latest commit](https://img.shields.io/github/last-commit/jeffsasha/ai-job-search?style=flat-square&color=64748b)](https://github.com/jeffsasha/ai-job-search/commits)
+
+> **About this fork:** Forked from [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search). The author story, project recognition, support links, and upstream CI below refer to Mads Lorentzen’s original project.
+
 *The job search that runs on your machine.*
 
 <p align="center">
   <a href="https://trendshift.io/repositories/43622?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-43622" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/43622/daily" alt="MadsLorentzen%2Fai-job-search | Trendshift" width="250" height="55"/></a>
 </p>
 
-[![CI](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml/badge.svg)](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml)
+[![Upstream CI](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml/badge.svg)](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml)
 
 An AI-powered job application framework built on [Claude Code](https://claude.com/claude-code). Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.
 
